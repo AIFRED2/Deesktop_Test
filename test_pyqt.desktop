@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=PyQT Test
+Exec=C:\MIT\DesktopApp\src\main.py
+Icon=application-x-executable
+Terminal=false
+Categories=Utility;
